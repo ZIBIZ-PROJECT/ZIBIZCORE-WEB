@@ -1,0 +1,36 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/zibiz_bg.qm</file>
+        <file alias="ca">locale/zibiz_ca.qm</file>
+        <file alias="cs">locale/zibiz_cs.qm</file>
+        <file alias="da">locale/zibiz_da.qm</file>
+        <file alias="de">locale/zibiz_de.qm</file>
+        <file alias="en">locale/zibiz_en.qm</file>
+        <file alias="en_US">locale/zibiz_en_US.qm</file>
+        <file alias="eo">locale/zibiz_eo.qm</file>
+        <file alias="es">locale/zibiz_es.qm</file>
+        <file alias="es_ES">locale/zibiz_es_ES.qm</file>
+        <file alias="fi">locale/zibiz_fi.qm</file>
+        <file alias="fr_FR">locale/zibiz_fr_FR.qm</file>
+        <file alias="hi_IN">locale/zibiz_hi_IN.qm</file>
+        <file alias="hr">locale/zibiz_hr.qm</file>
+        <file alias="hr_HR">locale/zibiz_hr_HR.qm</file>
+        <file alias="it">locale/zibiz_it.qm</file>
+        <file alias="ja">locale/zibiz_ja.qm</file>
+        <file alias="ko_KR">locale/zibiz_ko_KR.qm</file>
+        <file alias="lt_LT">locale/zibiz_lt_LT.qm</file>
+        <file alias="nl">locale/zibiz_nl.qm</file>
+        <file alias="pl">locale/zibiz_pl.qm</file>
+        <file alias="pt">locale/zibiz_pt.qm</file>
+        <file alias="pt_BR">locale/zibiz_pt_BR.qm</file>
+        <file alias="ro_RO">locale/zibiz_ro_RO.qm</file>
+        <file alias="ru">locale/zibiz_ru.qm</file>
+        <file alias="sk">locale/zibiz_sk.qm</file>
+        <file alias="sv">locale/zibiz_sv.qm</file>
+        <file alias="tr">locale/zibiz_tr.qm</file>
+        <file alias="uk">locale/zibiz_uk.qm</file>
+        <file alias="vi">locale/zibiz_vi.qm</file>
+        <file alias="zh_CN">locale/zibiz_zh_CN.qm</file>
+        <file alias="zh_TW">locale/zibiz_zh_TW.qm</file>
+    </qresource>
+</RCC>

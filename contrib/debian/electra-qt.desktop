@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=zibiz
+Comment=zibiz P2P Cryptocurrency
+Comment[fr]=zibiz, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=zibiz, eşten eşe kriptografik sanal para birimi
+Exec=zibiz-qt %u
+Terminal=false
+Type=Application
+Icon=bitcoin128
+MimeType=x-scheme-handler/zibiz;
+Categories=Office;Finance;
